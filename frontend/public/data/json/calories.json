@@ -1,0 +1,4702 @@
+[
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1985
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1797
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1776
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1745
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1863
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1728
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1921
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2035
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1786
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1775
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1827
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1949
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1788
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2013
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1970
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2159
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1898
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1837
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1947
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1820
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2004
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1990
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1819
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1959
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1896
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1821
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1740
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1819
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1859
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1783
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/12/2016",
+    "Calories": 0
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1432
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1411
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1572
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1344
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1463
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1554
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1604
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1435
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1446
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1467
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1470
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1562
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1617
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1492
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1402
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1670
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1401
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1404
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1655
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2690
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1497
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1334
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1368
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1370
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1341
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1474
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1427
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1328
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1393
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1359
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1002
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3199
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2902
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/14/2016",
+    "Calories": 3226
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2750
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/16/2016",
+    "Calories": 3493
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/17/2016",
+    "Calories": 3011
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2806
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/19/2016",
+    "Calories": 3300
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2430
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2140
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2344
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2677
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2413
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2497
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/26/2016",
+    "Calories": 3123
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2489
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/28/2016",
+    "Calories": 3108
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2498
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/30/2016",
+    "Calories": 3846
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2696
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2580
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3324
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2222
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2463
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/6/2016",
+    "Calories": 3328
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/7/2016",
+    "Calories": 3404
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2987
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/9/2016",
+    "Calories": 3008
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2799
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1276
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2030
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1860
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2130
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1725
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1657
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1793
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1814
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1366
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1349
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2062
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1827
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1645
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1348
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1992
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1856
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1763
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1541
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1348
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1742
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1549
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1589
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1351
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1347
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/12/2016",
+    "Calories": 665
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2220
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2151
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2383
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2221
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2064
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2111
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2064
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2093
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2499
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2324
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2100
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2638
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2351
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2064
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2411
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2505
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2195
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2338
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2383
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2229
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1383
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2390
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2601
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2312
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2525
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2177
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2782
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2770
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2489
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2897
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/21/2016",
+    "Calories": 3158
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2638
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2069
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2529
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2470
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2793
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2463
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2296
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2611
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2732
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2380
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2473
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2752
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2649
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2609
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2498
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1995
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1848
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2709
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2797
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2544
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1853
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1459
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1521
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1431
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1444
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1373
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1214
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1419
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1356
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1667
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1370
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1399
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1916
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1401
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1576
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1595
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1593
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1649
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1692
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1506
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1447
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1690
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1604
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1658
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1926
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1736
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1491
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1555
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1869
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1141
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1698
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1364
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2124
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2003
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1696
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1801
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1724
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1852
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1905
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1811
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1922
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1610
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1851
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1804
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1725
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1654
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1632
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1481
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1473
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1410
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1779
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1403
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1613
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1878
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1426
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1780
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1742
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1972
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1821
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1630
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1899
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1903
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1125
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2344
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2038
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2010
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2133
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2670
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1882
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1944
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2346
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2198
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2048
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1946
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2629
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2187
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2095
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1861
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2194
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1854
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/29/2016",
+    "Calories": 403
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1982
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2004
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1893
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2063
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2148
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1529
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1890
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1956
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2094
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1970
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2241
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2021
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1898
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1907
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1882
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1966
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1835
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1780
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1830
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1739
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1878
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1906
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2015
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1971
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1910
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1897
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2096
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1906
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1962
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1826
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1431
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1788
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2093
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2065
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1908
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1908
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1964
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2014
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1985
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1867
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2124
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1669
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1995
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1921
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2010
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2057
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2095
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1972
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2044
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1946
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1237
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1450
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1495
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1433
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1468
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1625
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1529
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1584
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1638
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1554
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1397
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1481
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1638
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1655
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1570
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1551
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1377
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1407
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1545
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1650
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1501
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1760
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1710
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1628
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1618
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1590
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1574
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1633
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1667
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1630
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/11/2016",
+    "Calories": 52
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3654
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1981
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2011
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2951
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/16/2016",
+    "Calories": 3051
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1990
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1995
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1980
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2207
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2828
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/4/2016",
+    "Calories": 3879
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3429
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2704
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2975
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/8/2016",
+    "Calories": 3089
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2785
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2926
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2645
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1120
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2286
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2306
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1776
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1527
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2115
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2135
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2302
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1985
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1884
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1464
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1632
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2200
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2220
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1792
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1886
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1945
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1880
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2314
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2236
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2324
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2367
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2175
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2092
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1593
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2270
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2235
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2282
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2530
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2266
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2158
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1792
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2345
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2260
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2232
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/12/2016",
+    "Calories": 257
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2955
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/13/2016",
+    "Calories": 3092
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2998
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/15/2016",
+    "Calories": 3066
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/16/2016",
+    "Calories": 3073
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2572
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/18/2016",
+    "Calories": 3274
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/19/2016",
+    "Calories": 3015
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3083
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/21/2016",
+    "Calories": 3069
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/22/2016",
+    "Calories": 3544
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3306
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2885
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3288
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2929
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/27/2016",
+    "Calories": 3074
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2969
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2979
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/30/2016",
+    "Calories": 3283
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2926
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/2/2016",
+    "Calories": 3147
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3290
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/4/2016",
+    "Calories": 3162
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2899
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/6/2016",
+    "Calories": 3425
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/7/2016",
+    "Calories": 4022
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/8/2016",
+    "Calories": 3934
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/9/2016",
+    "Calories": 3013
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/10/2016",
+    "Calories": 3061
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2954
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1623
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2113
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2095
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2194
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2496
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2180
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1933
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2248
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1954
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1974
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2150
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2432
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2149
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2247
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2070
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2291
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2361
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2203
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2196
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2363
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2246
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2336
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2421
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2070
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2120
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2211
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2123
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2423
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2281
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2181
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2499
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1212
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1909
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1722
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1922
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2121
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1997
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2117
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2116
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1876
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1788
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2486
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2094
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2085
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2173
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2225
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2223
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2098
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2185
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1918
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2105
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1692
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2066
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1953
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1842
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2262
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1722
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1973
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2666
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2223
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/10/2016",
+    "Calories": 1889
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2131
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1452
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2947
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2898
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2984
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2896
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/16/2016",
+    "Calories": 3328
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/17/2016",
+    "Calories": 3394
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/18/2016",
+    "Calories": 3013
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2812
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3061
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2729
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2241
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3691
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/24/2016",
+    "Calories": 3538
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3064
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2784
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2908
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/28/2016",
+    "Calories": 3033
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/29/2016",
+    "Calories": 3165
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/30/2016",
+    "Calories": 3115
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2017
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2859
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3145
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/4/2016",
+    "Calories": 3004
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3006
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2859
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/7/2016",
+    "Calories": 3683
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/8/2016",
+    "Calories": 3287
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2990
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/10/2016",
+    "Calories": 3172
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/11/2016",
+    "Calories": 3069
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1240
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2026
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1718
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2324
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2254
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1831
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1397
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1683
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2284
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1570
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2066
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2105
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1776
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1507
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2033
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2093
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1922
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1999
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2169
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/30/2016",
+    "Calories": 1463
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1747
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1996
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2116
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1698
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2156
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1916
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1494
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1762
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2272
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2335
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1693
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/12/2016",
+    "Calories": 741
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3405
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2551
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/14/2016",
+    "Calories": 4022
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/15/2016",
+    "Calories": 4005
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/16/2016",
+    "Calories": 4274
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/17/2016",
+    "Calories": 4552
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/18/2016",
+    "Calories": 3625
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/19/2016",
+    "Calories": 3501
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3192
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/21/2016",
+    "Calories": 4018
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/22/2016",
+    "Calories": 3329
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3152
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/24/2016",
+    "Calories": 4392
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3374
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/26/2016",
+    "Calories": 3088
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/27/2016",
+    "Calories": 3294
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/28/2016",
+    "Calories": 3580
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/29/2016",
+    "Calories": 3544
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/30/2016",
+    "Calories": 4501
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/1/2016",
+    "Calories": 4546
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/2/2016",
+    "Calories": 3014
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3795
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2755
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3004
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2643
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1819
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1819
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2489
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/10/2016",
+    "Calories": 3841
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1665
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1496
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1496
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1496
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2865
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2828
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2225
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2018
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2606
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2536
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/21/2016",
+    "Calories": 4900
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2409
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2651
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2305
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1497
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2450
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2576
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1879
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2560
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2275
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2361
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2044
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1496
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1902
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2636
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1838
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2469
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2250
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1248
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2560
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2905
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2952
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2896
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2783
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/17/2016",
+    "Calories": 3171
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2766
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2839
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2701
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2060
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2796
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2664
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2703
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2771
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2060
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2743
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2687
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2060
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2843
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/1/2016",
+    "Calories": 3327
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2725
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2671
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2718
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2682
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2806
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2613
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2712
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2175
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/10/2016",
+    "Calories": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2400
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2507
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2127
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2225
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2067
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2798
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3727
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1922
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2053
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2484
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2584
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/27/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1993
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2280
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2319
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/3/2016",
+    "Calories": 1843
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1841
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2496
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1032
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/12/2016",
+    "Calories": 1994
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1718
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1466
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1756
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2173
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2027
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2039
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2046
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2174
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2179
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2086
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2571
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1705
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2194
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2012
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2034
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2182
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2254
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2002
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1740
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2162
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2072
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2086
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2066
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1850
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1947
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1659
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2105
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2361
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/11/2016",
+    "Calories": 1855
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/12/2016",
+    "Calories": 928
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2937
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2742
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2668
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2098
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2076
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2383
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2832
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2812
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3096
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2763
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2889
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2284
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2667
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3055
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2939
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2830
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2836
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/29/2016",
+    "Calories": 3180
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2051
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2225
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2642
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2976
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/4/2016",
+    "Calories": 1557
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2933
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2553
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/7/2016",
+    "Calories": 120
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2772
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2516
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2734
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2395
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1635
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1629
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2743
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2944
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2997
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2463
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2846
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/23/2016",
+    "Calories": 1965
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2049
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2752
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2781
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2693
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2862
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2616
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2995
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2730
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2754
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2754
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2655
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2386
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2924
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2739
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2534
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2960
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2800
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2735
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1199
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3186
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/13/2016",
+    "Calories": 3140
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/14/2016",
+    "Calories": 3411
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/15/2016",
+    "Calories": 3410
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2867
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/17/2016",
+    "Calories": 3213
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/18/2016",
+    "Calories": 3133
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/19/2016",
+    "Calories": 3114
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3043
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/21/2016",
+    "Calories": 3103
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2655
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3554
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/24/2016",
+    "Calories": 3577
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3403
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2846
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2852
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/28/2016",
+    "Calories": 3062
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2794
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2408
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1886
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/2/2016",
+    "Calories": 1988
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3023
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2918
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/5/2016",
+    "Calories": 2950
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2859
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/7/2016",
+    "Calories": 3331
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/8/2016",
+    "Calories": 3589
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2765
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2926
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2809
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1505
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2044
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1935
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1705
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/15/2016",
+    "Calories": 1632
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1880
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2112
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1829
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1763
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/20/2016",
+    "Calories": 1931
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2218
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/22/2016",
+    "Calories": 1651
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2132
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1976
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1909
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1813
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2008
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/28/2016",
+    "Calories": 1580
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/29/2016",
+    "Calories": 1854
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/30/2016",
+    "Calories": 0
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3635
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/13/2016",
+    "Calories": 4079
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/14/2016",
+    "Calories": 4163
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/15/2016",
+    "Calories": 3666
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/16/2016",
+    "Calories": 3363
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2572
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/18/2016",
+    "Calories": 4157
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/19/2016",
+    "Calories": 4092
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3787
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/21/2016",
+    "Calories": 4236
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/22/2016",
+    "Calories": 4044
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2908
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2741
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/25/2016",
+    "Calories": 4005
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/26/2016",
+    "Calories": 3763
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/27/2016",
+    "Calories": 3061
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2884
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2982
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2660
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/1/2016",
+    "Calories": 3369
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/2/2016",
+    "Calories": 3491
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3784
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/4/2016",
+    "Calories": 3110
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3783
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/6/2016",
+    "Calories": 3644
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2799
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2685
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/9/2016",
+    "Calories": 3721
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/10/2016",
+    "Calories": 3586
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/11/2016",
+    "Calories": 3788
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1976
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2650
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/13/2016",
+    "Calories": 2654
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/14/2016",
+    "Calories": 2443
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2505
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/16/2016",
+    "Calories": 2693
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/17/2016",
+    "Calories": 2439
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2536
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/19/2016",
+    "Calories": 2668
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2647
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/21/2016",
+    "Calories": 2883
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2944
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3012
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/24/2016",
+    "Calories": 2889
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/25/2016",
+    "Calories": 2547
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/26/2016",
+    "Calories": 3093
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/27/2016",
+    "Calories": 3142
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2757
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/29/2016",
+    "Calories": 3513
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/30/2016",
+    "Calories": 3164
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2596
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2894
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/3/2016",
+    "Calories": 3212
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2516
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3266
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/6/2016",
+    "Calories": 2683
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/7/2016",
+    "Calories": 2810
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2940
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/9/2016",
+    "Calories": 2947
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2846
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/11/2016",
+    "Calories": 2804
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/12/2016",
+    "Calories": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/12/2016",
+    "Calories": 2044
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/13/2016",
+    "Calories": 1934
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/14/2016",
+    "Calories": 1963
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/15/2016",
+    "Calories": 2009
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/16/2016",
+    "Calories": 1721
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/17/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/18/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/19/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/20/2016",
+    "Calories": 2188
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/21/2016",
+    "Calories": 1720
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/22/2016",
+    "Calories": 2419
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/23/2016",
+    "Calories": 2748
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/24/2016",
+    "Calories": 1799
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/25/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/26/2016",
+    "Calories": 1928
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/27/2016",
+    "Calories": 2067
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/28/2016",
+    "Calories": 2780
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/29/2016",
+    "Calories": 3101
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/30/2016",
+    "Calories": 2896
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/1/2016",
+    "Calories": 1962
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2015
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2297
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/4/2016",
+    "Calories": 2067
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/5/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/6/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/7/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/8/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/9/2016",
+    "Calories": 1688
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/10/2016",
+    "Calories": 57
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/12/2016",
+    "Calories": 3921
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/13/2016",
+    "Calories": 3566
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/14/2016",
+    "Calories": 3793
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/15/2016",
+    "Calories": 3934
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/16/2016",
+    "Calories": 4547
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/17/2016",
+    "Calories": 3545
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/18/2016",
+    "Calories": 2761
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/19/2016",
+    "Calories": 3676
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/20/2016",
+    "Calories": 3679
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/21/2016",
+    "Calories": 3659
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/22/2016",
+    "Calories": 3427
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/23/2016",
+    "Calories": 3891
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/24/2016",
+    "Calories": 3455
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/25/2016",
+    "Calories": 3802
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/26/2016",
+    "Calories": 2860
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/27/2016",
+    "Calories": 3808
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/28/2016",
+    "Calories": 3060
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/29/2016",
+    "Calories": 2698
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/30/2016",
+    "Calories": 4398
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/1/2016",
+    "Calories": 2786
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/2/2016",
+    "Calories": 2189
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/3/2016",
+    "Calories": 2817
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/4/2016",
+    "Calories": 3477
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/5/2016",
+    "Calories": 3052
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/6/2016",
+    "Calories": 4015
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/7/2016",
+    "Calories": 4142
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/8/2016",
+    "Calories": 2847
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/9/2016",
+    "Calories": 3710
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/10/2016",
+    "Calories": 2832
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/11/2016",
+    "Calories": 3832
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/12/2016",
+    "Calories": 1849
+  }
+]

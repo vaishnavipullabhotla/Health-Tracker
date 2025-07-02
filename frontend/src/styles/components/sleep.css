@@ -1,0 +1,319 @@
+/* Sleep Page Styles (Existing) */
+.sleep-page {
+  background-color: #f5f7fa;
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sleep-page.dark {
+  background-color: #1e1e1e;
+}
+
+.sleep-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.sleep-header {
+  margin-bottom: 30px;
+}
+
+.sleep-title {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.sleep-page.dark .sleep-title {
+  color: #ffffff;
+}
+
+.sleep-subtitle {
+  font-size: 16px;
+  color: #718096;
+  margin-bottom: 20px;
+}
+
+.sleep-page.dark .sleep-subtitle {
+  color: #b0b0b0;
+}
+
+.sleep-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.sleep-page.dark .sleep-card {
+  background: #2a2a2a;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.sleep-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+/* Sleep Metrics */
+.sleep-metric {
+  display: flex;
+  flex-direction: column;
+}
+
+.sleep-metric-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.sleep-page.dark .sleep-metric-header {
+  color: #ffffff !important;
+}
+
+.sleep-metric-icon {
+  font-size: 24px;
+  margin-right: 10px;
+  color: #4299e1;
+}
+
+.sleep-page.dark .sleep-metric-icon {
+  color: #7b6bff;
+}
+
+.sleep-metric-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.sleep-metric-content.sleep-stages {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.stage-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #2d3748;
+}
+
+.sleep-page.dark .stage-item {
+  color: #ffffff;
+}
+
+.stage-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+}
+
+.stage-color.deep {
+  background-color: #4a90e2;
+}
+
+.sleep-page.dark .stage-color.deep {
+  background-color: #7b6bff;
+}
+
+.stage-color.rem {
+  background-color: #9b59b6;
+}
+
+.sleep-page.dark .stage-color.rem {
+  background-color: #b19cd9;
+}
+
+.stage-color.light {
+  background-color: #2ecc71;
+}
+
+.sleep-page.dark .stage-color.light {
+  background-color: #34c759;
+}
+
+.stage-value {
+  font-weight: 600;
+}
+
+.sleep-metric-value {
+  font-size: 28px;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.sleep-page.dark .sleep-metric-value {
+  color: #ffffff;
+}
+
+.sleep-metric-value span {
+  font-size: 16px;
+  color: #718096;
+  font-weight: normal;
+}
+
+.sleep-page.dark .sleep-metric-value span {
+  color: #b0b0b0;
+}
+
+.sleep-metric-change {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding: 4px 8px;
+  border-radius: 12px;
+}
+
+.sleep-metric-change.positive {
+  color: #38a169;
+  background-color: #f0fff4;
+}
+
+.sleep-page.dark .sleep-metric-change.positive {
+  color: #34c759;
+  background-color: #2a3a2a;
+}
+
+/* Sleep Analysis */
+.sleep-analysis h2 {
+  margin-bottom: 20px;
+  color: #2d3748;
+}
+
+.sleep-page.dark .sleep-analysis h2 {
+  color: #ffffff;
+}
+
+.sleep-graph-container {
+  height: 200px;
+  position: relative;
+}
+
+/* Sleep Stages Breakdown */
+.sleep-stages-breakdown h2 {
+  margin-bottom: 20px;
+  color: #2d3748;
+}
+
+.sleep-page.dark .sleep-stages-breakdown h2 {
+  color: #ffffff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .sleep-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* New Styles for Enter Today’s Sleep Data Section */
+.sleep-input-section {
+  margin-bottom: 30px;
+}
+
+.sleep-form {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.sleep-form-row {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.sleep-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.sleep-label {
+  font-size: 14px;
+  color: #2d3748;
+  margin-bottom: 5px;
+}
+
+.sleep-page.dark .sleep-label {
+  color: #b0b0b0;
+}
+
+.sleep-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 100px;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #2d3748;
+}
+
+.sleep-page.dark .sleep-input {
+  background-color: #333;
+  border-color: #555;
+  color: #ffffff;
+}
+
+.sleep-input:focus {
+  outline: none;
+  border-color: #4299e1;
+  box-shadow: 0 0 5px rgba(66, 153, 225, 0.5);
+}
+
+.sleep-page.dark .sleep-input:focus {
+  border-color: #7b6bff;
+  box-shadow: 0 0 5px rgba(123, 107, 255, 0.5);
+}
+
+.sleep-btn-primary {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #4299e1;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  height: 38px; /* Match input height */
+}
+
+.sleep-btn-primary:hover {
+  background-color: #2b6cb0;
+}
+
+
+.sleep-page.dark .sleep-btn-primary {
+  background-color: #7b6bff;
+}
+
+.sleep-page.dark .sleep-btn-primary:hover {
+  background-color: #5a4bd9;
+}
+
+.sleep-tips {
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: #f0fff4;
+  color: #718096;
+}
+
+.sleep-page.dark .sleep-tips {
+  background-color: #2a3a2a;
+  color: #b0b0b0;
+}

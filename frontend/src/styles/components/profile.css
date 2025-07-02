@@ -1,0 +1,389 @@
+/* D:\health\frontend\src\styles\components\profile.css */
+.profile-page {
+    min-height: 100vh;
+    background: #ffffff;
+    color: #222;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    
+}
+
+.profile-page.dark {
+    background: #1a1a1a;
+    color: #e0e0e0;
+}
+
+.profile-container {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 32px 16px;
+    background: #dff4ed;
+    border-radius: 20px;
+    box-shadow: 0 40px 20px rgba(0,0,0,0.1);
+}
+
+.profile-page.dark .profile-container {
+    background: #2a2a2a;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.profile-header {
+    margin-bottom: 32px;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.profile-header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.2;
+    color: inherit;
+}
+
+.profile-header p {
+    color: #6b7280;
+    margin: 8px 0 0 0;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.profile-page.dark .profile-header p {
+    color: #b0b3b8;
+}
+
+.profile-card {
+    background: #ffffff;
+    border-radius: 14px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    padding: 36px 28px;
+    max-width: 600px;
+    margin: 0 auto;
+    
+    position: relative;
+    overflow: hidden;
+}
+
+.profile-page.dark .profile-card {
+    background: #2a2a2a;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.profile-image {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.image-placeholder {
+    width: 100px;
+    height: 100px;
+    background: #e5e7eb;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+    overflow: hidden;
+    border: 2px solid #d1d5db;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.profile-page.dark .image-placeholder {
+    background: #333;
+    border-color: #444;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.image-placeholder svg {
+    font-size: 2.5rem;
+    color: #6b7280;
+}
+
+.profile-page.dark .image-placeholder svg {
+    color: #aaa;
+}
+
+.profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.change-image-btn {
+    background: none;
+    border: 1px solid #2563eb;
+    color: #2563eb;
+    padding: 6px 16px;
+    border-radius: 9999px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    font-size: 0.97rem;
+    transition: background 0.2s, color 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    position: relative;
+    z-index: 1;
+}
+
+.change-image-btn:hover:not(:disabled) {
+    background: #2563eb;
+    color: #fff;
+}
+
+.change-image-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.profile-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    position: relative;
+    z-index: 1;
+}
+
+.detail-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #f8f9fa;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.profile-page.dark .detail-item {
+    background: #333;
+}
+
+.detail-item .icon {
+    font-size: 1.1rem;
+    color: #2563eb;
+}
+
+.profile-page.dark .detail-item .icon {
+    color: #38bdf8;
+}
+
+.detail-content label {
+    font-size: 0.97rem;
+    color: #6b7280;
+    margin-bottom: 2px;
+    font-weight: 500;
+    display: block;
+}
+
+.profile-page.dark .detail-content label {
+    color: #b0b3b8;
+}
+
+.detail-content p {
+    margin: 0;
+    font-size: 1.05rem;
+    color: #222;
+    word-break: break-word;
+    font-weight: 400;
+}
+
+.profile-page.dark .detail-content p {
+    color: #e0e0e0;
+}
+
+.change-password-btn {
+    background: none;
+    border: none;
+    color: #2563eb;
+    cursor: pointer;
+    font-size: 1.05rem;
+    padding: 0;
+    font-weight: 500;
+    transition: color 0.2s, text-decoration 0.2s;
+    text-decoration: underline;
+    position: relative;
+    z-index: 1;
+}
+
+.change-password-btn:hover:not(:disabled) {
+    color: #1e40af;
+    text-decoration: none;
+}
+
+.change-password-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+    .profile-card {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 20px 6px;
+    }
+    .profile-details {
+        align-items: center;
+        text-align: center;
+    }
+    .detail-item {
+        justify-content: center;
+        width: 100%;
+    }
+}
+
+/* Password Change Modal */
+.password-change-modal {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+}
+
+.modal-content {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+    padding: 32px 28px;
+    min-width: 320px;
+    max-width: 90vw;
+    position: relative;
+}
+
+.profile-page.dark .modal-content {
+    background: #23272b;
+    color: #e0e0e0;
+}
+
+.modal-content h2 {
+    margin-top: 0;
+    margin-bottom: 18px;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.form-group {
+    margin-bottom: 18px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 0.97rem;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+.profile-page.dark .form-group label {
+    color: #b0b3b8;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 1rem;
+    background: #f8f9fa;
+    color: #222;
+}
+
+.profile-page.dark .form-group input {
+    background: #333;
+    color: #e0e0e0;
+    border-color: #444;
+}
+
+.modal-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.modal-actions button {
+    padding: 8px 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.97rem;
+    border: none;
+    background: #2563eb;
+    color: #fff;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+.modal-actions button[type='button'] {
+    background: #f3f4f6;
+    color: #222;
+    border: 1px solid #d1d5db;
+}
+
+.profile-page.dark .modal-actions button[type='button'] {
+    background: #333;
+    color: #e0e0e0;
+    border-color: #444;
+}
+
+.modal-actions button:hover {
+    opacity: 0.9;
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.view-profile-button {
+    width: 100%;
+    padding: 10px 0;
+    background: #2563eb;
+    color: #fff !important;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(37,99,235,0.08);
+}
+
+.view-profile-button:hover {
+    background: #1746a0;
+    color: #fff !important;
+}
+
+.dark .view-profile-button {
+    background: #1e90ff;
+    color: #fff !important;
+    border: none;
+}
+
+.dark .view-profile-button:hover {
+    background: #2563eb;
+    color: #fff !important;
+}

@@ -1,0 +1,38 @@
+.home-cta-section {
+  text-align: center;
+  padding: 50px 100px;
+  background-color: #3d485b;
+  color: #fff;
+}
+
+.home-cta-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.home-cta-section p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.home-cta-section .home-cta-btn {
+  padding: 12px 30px;
+  border-radius: 25px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #4a3aff;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.home-cta-section .home-cta-btn:hover {
+  background-color: #f5f7fa;
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .home-cta-section {
+    padding: 30px;
+  }
+}

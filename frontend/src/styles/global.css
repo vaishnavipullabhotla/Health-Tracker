@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  html {
+    width: 100%;
+    height: 100%;
+    background-color: #f5f7fa;
+  }
+  
+  html.dark-mode {
+    background-color: #1e1e1e;
+  }
+  
+  body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f5f7fa;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+  
+  body.dark-mode {
+    background-color: #1e1e1e;
+  }
+  
+  #root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #f5f7fa;
+  }
+  
+  body.dark-mode #root {
+    background-color: #1e1e1e;
+  }
+  
+  .App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #f5f7fa;
+  }
+  
+  body.dark-mode .App {
+    background-color: #1e1e1e;
+  }
+  
+  /* Main container styles */
+  .dashboard-page,
+  .nutrition-page,
+  .sleep-page,
+  .workouts-page,
+  .goals-page {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #f5f7fa;
+    transition: background-color 0.3s ease;
+    position: relative;
+    z-index: 1;
+  }
+  
+  body.dark-mode .dashboard-page,
+  body.dark-mode .nutrition-page,
+  body.dark-mode .sleep-page,
+  body.dark-mode .workouts-page,
+  body.dark-mode .goals-page {
+    background-color: #1e1e1e;
+  }
+  
+  /* Ensure all direct children of pages have the same background */
+  .dashboard-page > *,
+  .nutrition-page > *,
+  .sleep-page > *,
+  .workouts-page > *,
+  .goals-page > * {
+    background-color: inherit;
+  }
+  
+  /* Ensure all containers have the same background */
+  .dashboard-container,
+  .nutrition-container,
+  .sleep-container,
+  .workouts-container,
+  .goals-container {
+    background-color: inherit;
+    width: 100%;
+    min-height: calc(100vh - 60px); /* Adjust based on your navbar height */
+    margin-top: 60px; /* Adjust based on your navbar height */
+  }
